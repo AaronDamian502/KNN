@@ -37,6 +37,3 @@ Feel free to explore the code, run the examples, or contribute to the repository
 - Scikit-learn for KNN implementation and model evaluation
 - Matplotlib/Seaborn for visualizations
 
-## License:
-This project is licensed under the MIT License.
-
